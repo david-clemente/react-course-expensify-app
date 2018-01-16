@@ -18,4 +18,7 @@ const jsx = (
     </Provider>
 );
 
+console.log('coise');
+
+
 ReactDOM.render(jsx, document.getElementById('app'));
